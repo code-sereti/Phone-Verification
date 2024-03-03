@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Phone Verification</string>
+    <string name="otp_verify">OTP Verification</string>
+    <string name="otp_tip">The OTP will be sent to this number</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="otp">OTP Received</string>
+    <string name="otp_put">Enter the OTP sent to </string>
+    <string name="country_code">+254</string>
+    <string name="otp_phone">702345678</string>
+    <string name="otp_get">GET OTP</string>
+    <string name="verify_otp">VERIFY</string>
+    <string name="no_otp">Didn\'t receive the OTP? </string>
+    <string name="resend_otp">Resend</string>
+</resources>

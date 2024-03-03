@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602073064352",
+    "project_id": "phone-otp-51d82",
+    "storage_bucket": "phone-otp-51d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602073064352:android:a39536c94574c23a1bbac5",
+        "android_client_info": {
+          "package_name": "com.example.phoneverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQ43b-pf7jOMCqYAqhpmYEOOGalh4eZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
